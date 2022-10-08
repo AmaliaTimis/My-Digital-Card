@@ -1,0 +1,35 @@
+
+
+
+.body{
+    margin: 20px;
+    
+}
+
+.avatar{
+        width: 200px;
+}
+
+.card{
+    width: 400px;
+   margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: rgb(160, 135, 72);
+    color: rgb(97, 67, 22);
+    border-bottom: 2px solid #d8cefe;
+
+
+}
+
+.italic{
+    font-style: italic;
+}
+
+
+
+.border-blue{
+    border: 1px dotted gold
+}
